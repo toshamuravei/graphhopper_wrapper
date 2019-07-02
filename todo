@@ -7,7 +7,7 @@ TODO
 [+] Dockerfile based on Alpine
 [+] Makefile with build & run instructions
 [+] Add wsgi to service
-[ ] Add README
+[+] Add README
 [ ] Some refactoring to utils
 [ ] Add logging
 [ ] Fork GraphHopper to gitlab (inner repo?)
