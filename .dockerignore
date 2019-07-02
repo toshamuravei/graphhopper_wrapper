@@ -1,0 +1,26 @@
+#.env*
+#*/.env*
+**/.env*
+
+**/*.pyc
+*.so
+build
+.docker_root_home
+__pycache__
+
+.git
+*.json
+*.o
+**/*.so
+**/*.xml
+**/*.ipynb
+**/*.sqlite3
+
+**/.mypy_cache
+**/.git
+**/build
+**/__pycache__
+**/*.egg-info
+**/.pytest_cache
+
+# maked with help of docker-show-context : https://github.com/pwaller/docker-show-context

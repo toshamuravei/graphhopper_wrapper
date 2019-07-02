@@ -1,0 +1,15 @@
+TODO
+
+[+] client-form response rendering
+[+] settings file with GrassHopper data (put it in os.environ somehow?)
+[+] create routes for distance matrices
+[+] error and incorrect arguments handling
+[+] Dockerfile based on Alpine
+[+] Makefile with build & run instructions
+[+] Add wsgi to service
+[ ] Add README
+[ ] Some refactoring to utils
+[ ] Add logging
+[ ] Fork GraphHopper to gitlab (inner repo?)
+[ ] Add GraphHopper server deployment to oits-devops
+[ ] Add docker-compose
